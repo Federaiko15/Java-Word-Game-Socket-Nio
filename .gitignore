@@ -1,0 +1,16 @@
+# Ignora i file compilati e le cartelle di output
+bin/
+*.class
+
+# Ignora i file jar generati da noi (ma non le librerie in lib/)
+server.jar
+client.jar
+
+# Ignora file di sistema o temporanei
+.DS_Store
+*.zip
+
+# Ignora configurazioni specifiche dell'IDE (se usi VS Code o IntelliJ)
+.vscode/
+.idea/
+*.iml

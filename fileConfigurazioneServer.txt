@@ -1,0 +1,4 @@
+port: 5000
+file_path_utenti: fileUtenti.json
+file_path_storico_partite: storico_partite.json
+durata_partita: 300
